@@ -1,0 +1,1 @@
+Adaptação do projeto Sistema de Controle de Consultoria para a plataforma Android.
